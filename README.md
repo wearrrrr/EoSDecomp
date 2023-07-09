@@ -25,6 +25,6 @@ I never thought I would get to the point where I was studying code that a drunke
 1. In the credits for EoSD, multiple people are listed as "Programming Support" going to [pbg](https://en.touhouwiki.net/wiki/Ponchi) and "Special Thanks" going to "ant" and "fang", who have remained relatively unknown to this day, but are likely beta testers for the game.
 
 2. The article is incredibly poorly translated from my knowledge of Japanese, here is my best attempt at it.
-> "The first release for Windows of the Touhou Project 『 Touhou Koumakyou 』 Will be difficult to release on Steam. This is because there is no source code.
+> The first release for Windows of the Touhou Project 『 Touhou Koumakyou 』 Will be difficult to release on Steam. This is because there is no source code.
 
 4. If you simply want to get the game running there are workarounds such as the [EnbDev Converter for DX8 to DX9](http://enbdev.com/convertor_dx8_dx9_v0036.htm), or [dgVoodoo2](http://www.dege.freeweb.hu/dgVoodoo2/dgVoodoo2/)
