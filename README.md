@@ -15,7 +15,7 @@ Touhou 6 uses DirectX8, a version of DirectX which isn't at all even supported i
 Well that's pretty straightforward. The goals of the decompilation are to get more eyes on the Touhou Franchise, as well as fixing tons of bugs related to the game (Full list of identified bugs coming soon), and ensuring that it can still be properly played in the future!
 
 ## Contributing
-If you want to contribute to EoSDecomp, please read [CONTRIBUTING.MD](CONTRIBUTING.md)!
+If you want to contribute to EoSDecomp, please read the [CONTRIBUTING](CONTRIBUTING.md) page!
 
 ## Closing thoughts
 I never thought I would get to the point where I was studying code that a drunken Japanese man fed into Visual Studio 2002 like it was gospel, but here we are, and it still very much hurts my brain. Thank you ZUN for all the hard work you've put into the Touhou Franchise, and I hope one day that this decomp will see completion :)
