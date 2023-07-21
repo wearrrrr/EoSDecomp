@@ -11,7 +11,7 @@ EoSD is a very important game to me, as it not only features some of my personal
 
 ## Okay but that isn't a hard barrier of entry, what is your point?
 If it wasn't hard enough to obtain a legitimate copy of the game (or downloading a copy online), then you will run into even more issues trying to get the game to actually play nice with modern version of Windows!
-Touhou 6 uses DirectX8, a version of DirectX which isn't at all even supported in Windows 10, nevermind 11. As a small example, [here is what the deprecation of DX8 and Windows 10 did to the game.](https://youtube.com/watch?v=5A4t-ko3y8o)<sup>[[3]](#cliffnotes)</sup> as well as countless threads online complaining about miscellanous bugs with the game.
+Touhou 6 uses DirectX8, a version of DirectX which is barely supported in Windows 10, nevermind 11. As a small example, [here is what the deprecation of DX8 and Windows 10 did to the game.](https://youtube.com/watch?v=5A4t-ko3y8o)<sup>[[3]](#cliffnotes)</sup> as well as countless threads online complaining about miscellanous bugs with the game.
 
 ## Alright alright fine, I'm convinced. What are your goals for the decompilation?
 Well that's pretty straightforward. The goals of the decompilation are to get more eyes on the Touhou Franchise, as well as fixing tons of bugs related to the game (Full list of identified bugs coming soon), and ensuring that it can still be properly played in the future!
