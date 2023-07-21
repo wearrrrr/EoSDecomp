@@ -1,8 +1,10 @@
 # EoSDecomp
 Also known as "A *satisfactory* decompilation of EoSD brought to you by residents of the Scarlet Devil Mansion" ™
+<br></br>
+Discord server now available! Join [Here!](https://discord.gg/3kEbbpdU8w)
 
 ## What even is EoSD? 
-Glad you asked! EoSD, or Embodiment of Scarlet Devil is the 6th game in a series of vertically scrolling [Danmaku](https://en.wikipedia.org/wiki/Bullet_hell) shooters created almost<sup>[[1]](#cliffnotes)</sup> entirely by ZUN!
+EoSD, or Embodiment of Scarlet Devil is the 6th game in a series of vertically scrolling [Danmaku](https://en.wikipedia.org/wiki/Bullet_hell) shooters created almost<sup>[[1]](#cliffnotes)</sup> entirely by ZUN!
 
 ## So.. why bother?
 EoSD is a very important game to me, as it not only features some of my personal favorite characters in the Touhou franchise, but has an incredibly rich history involving the source code for the game, [which is now supposedly lost media according to ZUN](https://automaton-media.com/articles/newsjp/20200529-125704/)<sup>[[2]](#cliffnotes)</sup>, so therefore the only methods of actually obtaining a copy of Touhou 6 is either piracy or through obtaining a legitimate copy off of place like [Yahoo! Auctions Japan](https://auctions.yahoo.co.jp/).
