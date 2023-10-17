@@ -8,7 +8,7 @@ The file is a simple binary file, with the following structure:
 
 | Offset | Size | Description | Type |
 | --- | --- | --- | --- |
-| 0x00 | 18 | Input Related (x8) | int16_t |
+| 0x00 | 18 | Input Related (x9) | int16_t |
 | 0x12 | 2 | Config File Version | uint16_t |
 | 0x14 | 4 | Game Version | uint32_t |
 | 0x18 | 1 | Starting Lives | uint8_t |
