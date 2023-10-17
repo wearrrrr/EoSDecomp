@@ -18,5 +18,5 @@ Code style has not yet been established, but ideally a prettier config will be c
 
 - [ ] CI/CD for a progress indicator.
 - [ ] Reverse engineering position
-- [ ] Constructing classes for game code, instead of relying on identifying functions loosely.
+- [x] Constructing classes for game code, instead of relying on identifying functions loosely.
 - [x] Public Ghidra Server  
