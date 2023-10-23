@@ -1,0 +1,7 @@
+
+void noerror(void)
+
+{
+  return;
+}
+

@@ -1,0 +1,7 @@
+
+void chsifnegret(void)
+
+{
+  return;
+}
+

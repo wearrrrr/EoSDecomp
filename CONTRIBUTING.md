@@ -17,6 +17,7 @@ Code style has not yet been established, but ideally a prettier config will be c
 # Highly requested features and contributions.
 
 - [ ] CI/CD for a progress indicator.
-- [ ] Reverse engineering position
+- [ ] Help with reverse engineering more obscure classes, (UnknownA-F, Ending, MainMenu, etc).
+- [ ] Help with repository setup
 - [x] Constructing classes for game code, instead of relying on identifying functions loosely.
 - [x] Public Ghidra Server  
